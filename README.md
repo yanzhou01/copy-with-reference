@@ -25,9 +25,9 @@ Select text on any page and press `Ctrl+C`. The clipboard will contain the page 
 ```
 https://example.com/some/page
 
-```
+\```
 Selected text goes here
-```
+\```
 ```
 
 Useful for citing documentation or sharing a specific passage with its source.
